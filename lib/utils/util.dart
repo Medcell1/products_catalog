@@ -1,0 +1,9 @@
+export 'package:flutter/material.dart';
+export 'package:google_fonts/google_fonts.dart';
+export 'package:product_catalog/utils/customs/styled_text.dart';
+export 'dart:io';
+export 'package:product_catalog/configures/extensions/sized_box_num_api.dart';
+export 'package:product_catalog/model/product_model.dart';
+export 'package:product_catalog/utils/constants.dart';
+export 'package:product_catalog/utils/customs/custom_alert.dart';
+export 'package:product_catalog/configures/app_colors.dart';

@@ -1,0 +1,14 @@
+const String profile = "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg";
+const String hoodie1 = "assets/images/hoodie1.png";
+const String hoodie2 = "assets/images/hoodie2.png";
+const String hoodie3 = "assets/images/hoodie3.png";
+const String hoodie4 = "assets/images/hoodie4.png";
+const String categoryHoodie = "assets/images/category_hoodie.png";
+const String categoryBag = "assets/images/category_bag.png";
+const String categoryShoe = "assets/images/category_shoe.png";
+const String categoryShort = "assets/images/category_short.png";
+const String questionSign = "assets/images/question_sign.png";
+const String logo = "assets/images/logo.png";
+const String errorIcon = "assets/icons/warning.svg";
+const String successIcon = "assets/icons/success_check.svg";
+const String filterIcon = "assets/icons/filter.svg";
